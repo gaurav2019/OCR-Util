@@ -1,0 +1,2 @@
+include ':app', ':ocrlibrary'
+rootProject.name='OCR Util'
